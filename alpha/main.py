@@ -9,7 +9,7 @@ import random
 # }
 
 def load_questions():
-    with open('questions.json', 'r') as file:
+    with open('alpha/questions.json', 'r') as file:
         return json.load(file)
 
 def run_quiz(questions):
