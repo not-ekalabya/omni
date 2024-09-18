@@ -1,0 +1,1532 @@
+[
+    {
+        "question": "What is the time complexity of a binary search algorithm?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "O(1)"
+        ],
+        "correct_answer": "O(log n)"
+    },
+    {
+        "question": "In physics, what is the SI unit of force?",
+        "options": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "correct_answer": "Newton"
+    },
+    {
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": [
+            "H2SO3",
+            "H2SO4",
+            "HSO3",
+            "H2S2O7"
+        ],
+        "correct_answer": "H2SO4"
+    },
+    {
+        "question": "Which organelle is known as the 'powerhouse' of the cell?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Endoplasmic Reticulum",
+            "Golgi Apparatus"
+        ],
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "question": "What is the result of 2^10?",
+        "options": [
+            "512",
+            "1024",
+            "2048",
+            "4096"
+        ],
+        "correct_answer": "1024"
+    },
+    {
+        "question": "In computer networking, what does DNS stand for?",
+        "options": [
+            "Dynamic Network System",
+            "Domain Name System",
+            "Digital Network Service",
+            "Distributed Node Server"
+        ],
+        "correct_answer": "Domain Name System"
+    },
+    {
+        "question": "What is the acceleration due to gravity on Earth's surface (approximate value)?",
+        "options": [
+            "5 m/s^2",
+            "7.5 m/s^2",
+            "9.8 m/s^2",
+            "12 m/s^2"
+        ],
+        "correct_answer": "9.8 m/s^2"
+    },
+    {
+        "question": "What is the pH of a neutral solution?",
+        "options": [
+            "0",
+            "7",
+            "14",
+            "1"
+        ],
+        "correct_answer": "7"
+    },
+    {
+        "question": "Which of the following is not a base pair in DNA?",
+        "options": [
+            "Adenine-Thymine",
+            "Cytosine-Guanine",
+            "Guanine-Thymine",
+            "Uracil-Adenine"
+        ],
+        "correct_answer": "Uracil-Adenine"
+    },
+    {
+        "question": "What is the binary representation of the decimal number 15?",
+        "options": [
+            "1111",
+            "1011",
+            "1101",
+            "1001"
+        ],
+        "correct_answer": "1111"
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "options": [
+            "KE = mgh",
+            "KE = 1/2 mv^2",
+            "KE = F/m",
+            "KE = P/V"
+        ],
+        "correct_answer": "KE = 1/2 mv^2"
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct_answer": "6"
+    },
+    {
+        "question": "Which of the following is not a type of RNA?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "dRNA"
+        ],
+        "correct_answer": "dRNA"
+    },
+    {
+        "question": "What is the result of 3 XOR 5 in binary?",
+        "options": [
+            "0110",
+            "0011",
+            "1001",
+            "0111"
+        ],
+        "correct_answer": "0110"
+    },
+    {
+        "question": "What is the speed of light in vacuum (approximate value)?",
+        "options": [
+            "299,792 km/s",
+            "199,792 km/s",
+            "399,792 km/s",
+            "499,792 km/s"
+        ],
+        "correct_answer": "299,792 km/s"
+    },
+    {
+        "question": "What is the molecular formula of methane?",
+        "options": [
+            "CH3",
+            "CH4",
+            "C2H6",
+            "C2H4"
+        ],
+        "correct_answer": "CH4"
+    },
+    {
+        "question": "Which of the following is not a phase of mitosis?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Telophase",
+            "G1"
+        ],
+        "correct_answer": "G1"
+    },
+    {
+        "question": "What is the time complexity of bubble sort in the worst case?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(1)"
+        ],
+        "correct_answer": "O(n^2)"
+    },
+    {
+        "question": "What is the unit of electric current?",
+        "options": [
+            "Volt",
+            "Watt",
+            "Ampere",
+            "Ohm"
+        ],
+        "correct_answer": "Ampere"
+    },
+    {
+        "question": "What is the atomic mass of oxygen?",
+        "options": [
+            "8",
+            "16",
+            "32",
+            "64"
+        ],
+        "correct_answer": "16"
+    },
+    {
+        "question": "Which of the following is not a type of chemical bond?",
+        "options": [
+            "Ionic",
+            "Covalent",
+            "Metallic",
+            "Nuclear"
+        ],
+        "correct_answer": "Nuclear"
+    },
+    {
+        "question": "What is the correct order of taxonomic classification from largest to smallest?",
+        "options": [
+            "Kingdom, Phylum, Class, Order, Family, Genus, Species",
+            "Species, Genus, Family, Order, Class, Phylum, Kingdom",
+            "Phylum, Kingdom, Class, Order, Family, Genus, Species",
+            "Kingdom, Class, Phylum, Family, Order, Genus, Species"
+        ],
+        "correct_answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+    },
+    {
+        "question": "What is the result of 17 % 5?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "What is the SI unit of pressure?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule",
+            "Watt"
+        ],
+        "correct_answer": "Pascal"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Ag",
+            "Au",
+            "Cu",
+            "Fe"
+        ],
+        "correct_answer": "Au"
+    },
+    {
+        "question": "Which of the following is not a nucleotide base found in DNA?",
+        "options": [
+            "Adenine",
+            "Cytosine",
+            "Guanine",
+            "Uracil"
+        ],
+        "correct_answer": "Uracil"
+    },
+    {
+        "question": "What is the hexadecimal representation of the decimal number 255?",
+        "options": [
+            "FF",
+            "EE",
+            "DD",
+            "CC"
+        ],
+        "correct_answer": "FF"
+    },
+    {
+        "question": "What is the formula for the area of a circle?",
+        "options": [
+            "A = πr",
+            "A = 2πr",
+            "A = πr^2",
+            "A = 2πr^2"
+        ],
+        "correct_answer": "A = πr^2"
+    },
+    {
+        "question": "What is the pH of a solution with hydrogen ion concentration of 1 × 10^-3 mol/L?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Which of the following is not a type of protein structure?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "correct_answer": "Primary"
+    },
+    {
+        "question": "What is the two's complement of binary number 1010?",
+        "options": [
+            "0101",
+            "0110",
+            "1001",
+            "1010"
+        ],
+        "correct_answer": "0110"
+    },
+    {
+        "question": "What is the wavelength of visible light?",
+        "options": [
+            "380-700 nm",
+            "700-1000 nm",
+            "200-380 nm",
+            "1-200 nm"
+        ],
+        "correct_answer": "380-700 nm"
+    },
+    {
+        "question": "What is the chemical formula for sodium chloride?",
+        "options": [
+            "NaCl2",
+            "Na2Cl",
+            "NaCl",
+            "NaCl3"
+        ],
+        "correct_answer": "NaCl"
+    },
+    {
+        "question": "Which of the following is not a type of RNA polymerase in eukaryotes?",
+        "options": [
+            "RNA Polymerase I",
+            "RNA Polymerase II",
+            "RNA Polymerase III",
+            "RNA Polymerase IV"
+        ],
+        "correct_answer": "RNA Polymerase IV"
+    },
+    {
+        "question": "What is the time complexity of quicksort in the average case?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)"
+        ],
+        "correct_answer": "O(n log n)"
+    },
+    {
+        "question": "What is the SI unit of energy?",
+        "options": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "correct_answer": "Joule"
+    },
+    {
+        "question": "What is the atomic number of nitrogen?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct_answer": "7"
+    },
+    {
+        "question": "Which of the following is not a type of intermolecular force?",
+        "options": [
+            "Hydrogen bonding",
+            "Van der Waals forces",
+            "Dipole-dipole interactions",
+            "Covalent bonding"
+        ],
+        "correct_answer": "Covalent bonding"
+    },
+    {
+        "question": "What is the function of ribosomes in a cell?",
+        "options": [
+            "Energy production",
+            "Protein synthesis",
+            "Lipid synthesis",
+            "DNA replication"
+        ],
+        "correct_answer": "Protein synthesis"
+    },
+    {
+        "question": "What is the result of bitwise AND operation between 5 (101 in binary) and 3 (011 in binary)?",
+        "options": [
+            "7",
+            "1",
+            "3",
+            "5"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "What is the formula for calculating work done?",
+        "options": [
+            "W = m * a",
+            "W = F * d",
+            "W = 1/2 * m * v^2",
+            "W = P * t"
+        ],
+        "correct_answer": "W = F * d"
+    },
+    {
+        "question": "What is the oxidation number of sulfur in H2SO4?",
+        "options": [
+            "+4",
+            "+6",
+            "-2",
+            "0"
+        ],
+        "correct_answer": "+6"
+    },
+    {
+        "question": "Which of the following is not a component of the cell membrane?",
+        "options": [
+            "Phospholipids",
+            "Cholesterol",
+            "Proteins",
+            "Cellulose"
+        ],
+        "correct_answer": "Cellulose"
+    },
+    {
+        "question": "What is the output of the following Python code: print(2 ** 3 ** 2)?",
+        "options": [
+            "64",
+            "512",
+            "729",
+            "1024"
+        ],
+        "correct_answer": "512"
+    },
+    {
+        "question": "What is the SI unit of electric charge?",
+        "options": [
+            "Ampere",
+            "Volt",
+            "Coulomb",
+            "Ohm"
+        ],
+        "correct_answer": "Coulomb"
+    },
+    {
+        "question": "What is the molar mass of carbon dioxide (CO2)?",
+        "options": [
+            "28 g/mol",
+            "32 g/mol",
+            "44 g/mol",
+            "48 g/mol"
+        ],
+        "correct_answer": "44 g/mol"
+    },
+    {
+        "question": "Which of the following is not a type of mutation?",
+        "options": [
+            "Insertion",
+            "Deletion",
+            "Substitution",
+            "Transcription"
+        ],
+        "correct_answer": "Transcription"
+    },
+    {
+        "question": "What is the time complexity of binary search in a sorted array?",
+        "options": [
+            "O(n)",
+            "O(log n)",
+            "O(n^2)",
+            "O(1)"
+        ],
+        "correct_answer": "O(log n)"
+    },
+    {
+        "question": "What is the formula for calculating the force of gravity between two objects?",
+        "options": [
+            "F = ma",
+            "F = G(m1m2)/r^2",
+            "F = kx",
+            "F = μN"
+        ],
+        "correct_answer": "F = G(m1m2)/r^2"
+    },
+    {
+        "question": "What is the chemical formula for water?",
+        "options": [
+            "H2O",
+            "CO2",
+            "NaCl",
+            "CH4"
+        ],
+        "correct_answer": "H2O"
+    },
+    {
+        "question": "What is the result of 10 % 3?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "What is the SI unit of temperature?",
+        "options": [
+            "Celsius",
+            "Kelvin",
+            "Fahrenheit",
+            "Rankine"
+        ],
+        "correct_answer": "Kelvin"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": [
+            "Fe",
+            "Fe2",
+            "Fe3",
+            "Fe4"
+        ],
+        "correct_answer": "Fe"
+    },
+    {
+        "question": "Which of the following is not a type of isomerism?",
+        "options": [
+            "Structural",
+            "Geometric",
+            "Optical",
+            "Conformational"
+        ],
+        "correct_answer": "Conformational"
+    },
+    {
+        "question": "What is the result of 20 % 6?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "What is the formula for calculating the area of a triangle?",
+        "options": [
+            "A = 1/2 * b * h",
+            "A = b * h",
+            "A = b * h^2",
+            "A = 1/2 * b * h^2"
+        ],
+        "correct_answer": "A = 1/2 * b * h"
+    },
+    {
+        "question": "What is the chemical formula for sodium hydroxide?",
+        "options": [
+            "NaOH",
+            "NaCl",
+            "Na2CO3",
+            "NaNO3"
+        ],
+        "correct_answer": "NaOH"
+    },
+    {
+        "question": "What is the time complexity of the Bellman-Ford algorithm for finding the shortest path in a graph with negative edge weights?",
+        "options": [
+            "O(V)",
+            "O(E)",
+            "O(V * E)",
+            "O(V^2 * E)"
+        ],
+        "correct_answer": "O(V * E)"
+    },
+    {
+        "question": "In quantum mechanics, what is the name of the equation that describes how quantum states change with time?",
+        "options": [
+            "Maxwell's equation",
+            "Schrödinger equation",
+            "Dirac equation",
+            "Heisenberg equation"
+        ],
+        "correct_answer": "Schrödinger equation"
+    },
+    {
+        "question": "What is the result of integrating 1/x with respect to x?",
+        "options": [
+            "x",
+            "1/x",
+            "ln|x| + C",
+            "e^x + C"
+        ],
+        "correct_answer": "ln|x| + C"
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "options": [
+            "Bubble Sort",
+            "Quick Sort",
+            "Insertion Sort",
+            "Selection Sort"
+        ],
+        "correct_answer": "Quick Sort"
+    },
+    {
+        "question": "What is the half-life of Carbon-14?",
+        "options": [
+            "2,730 years",
+            "5,730 years",
+            "7,730 years",
+            "10,730 years"
+        ],
+        "correct_answer": "5,730 years"
+    },
+    {
+        "question": "In computer architecture, what does RISC stand for?",
+        "options": [
+            "Reduced Instruction Set Computing",
+            "Random Instruction Set Computing",
+            "Rapid Instruction Set Computing",
+            "Robust Instruction Set Computing"
+        ],
+        "correct_answer": "Reduced Instruction Set Computing"
+    },
+    {
+        "question": "What is the Riemann Hypothesis?",
+        "options": [
+            "All even numbers are the sum of two primes",
+            "The zeta function has its zeros only at negative even integers and complex numbers with real part 1/2",
+            "There are infinitely many Mersenne primes",
+            "P ≠ NP"
+        ],
+        "correct_answer": "The zeta function has its zeros only at negative even integers and complex numbers with real part 1/2"
+    },
+    {
+        "question": "What is the chemical name for the compound C6H12O6?",
+        "options": [
+            "Fructose",
+            "Glucose",
+            "Galactose",
+            "All of the above"
+        ],
+        "correct_answer": "All of the above"
+    },
+    {
+        "question": "In cryptography, what is the name of the problem on which the security of RSA is based?",
+        "options": [
+            "Discrete Logarithm Problem",
+            "Integer Factorization Problem",
+            "Elliptic Curve Discrete Logarithm Problem",
+            "Subset Sum Problem"
+        ],
+        "correct_answer": "Integer Factorization Problem"
+    },
+    {
+        "question": "What is the value of the limit as x approaches infinity of (1 + 1/x)^x?",
+        "options": [
+            "0",
+            "1",
+            "e",
+            "Infinity"
+        ],
+        "correct_answer": "e"
+    },
+    {
+        "question": "Which of the following is not a fundamental force of nature?",
+        "options": [
+            "Gravity",
+            "Electromagnetic force",
+            "Strong nuclear force",
+            "Centrifugal force"
+        ],
+        "correct_answer": "Centrifugal force"
+    },
+    {
+        "question": "What is the time complexity of the Floyd-Warshall algorithm for finding all shortest paths in a weighted graph?",
+        "options": [
+            "O(V^2)",
+            "O(V^3)",
+            "O(E log V)",
+            "O(V * E)"
+        ],
+        "correct_answer": "O(V^3)"
+    },
+    {
+        "question": "What is the name of the theorem that states that every polynomial equation has a complex root?",
+        "options": [
+            "Fermat's Last Theorem",
+            "Fundamental Theorem of Algebra",
+            "Pythagorean Theorem",
+            "Central Limit Theorem"
+        ],
+        "correct_answer": "Fundamental Theorem of Algebra"
+    },
+    {
+        "question": "In biochemistry, what is the name of the process by which cells break down glucose to produce energy?",
+        "options": [
+            "Photosynthesis",
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transport chain"
+        ],
+        "correct_answer": "Glycolysis"
+    },
+    {
+        "question": "What is the correct order of the OSI model layers from lowest to highest?",
+        "options": [
+            "Physical, Data Link, Network, Transport, Session, Presentation, Application",
+            "Application, Presentation, Session, Transport, Network, Data Link, Physical",
+            "Network, Data Link, Physical, Transport, Session, Presentation, Application",
+            "Physical, Network, Data Link, Transport, Session, Presentation, Application"
+        ],
+        "correct_answer": "Physical, Data Link, Network, Transport, Session, Presentation, Application"
+    },
+    {
+        "question": "What is the name of the conjecture that states that every even integer greater than 2 can be expressed as the sum of two primes?",
+        "options": [
+            "Poincaré conjecture",
+            "Goldbach conjecture",
+            "Twin prime conjecture",
+            "Collatz conjecture"
+        ],
+        "correct_answer": "Goldbach conjecture"
+    },
+    {
+        "question": "What is the pH of a 0.1 M HCl solution?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "In quantum computing, what is the name of the gate that puts a qubit in superposition?",
+        "options": [
+            "CNOT gate",
+            "Hadamard gate",
+            "Pauli-X gate",
+            "Toffoli gate"
+        ],
+        "correct_answer": "Hadamard gate"
+    },
+    {
+        "question": "What is the result of evaluating the limit as x approaches 0 of (sin x) / x?",
+        "options": [
+            "0",
+            "1",
+            "π",
+            "Undefined"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Which of the following is not a type of machine learning?",
+        "options": [
+            "Supervised learning",
+            "Unsupervised learning",
+            "Reinforcement learning",
+            "Quantum learning"
+        ],
+        "correct_answer": "Quantum learning"
+    },
+    {
+        "question": "What is the name of the effect where a particle can tunnel through a barrier that it classically could not surmount?",
+        "options": [
+            "Photoelectric effect",
+            "Compton effect",
+            "Quantum tunneling",
+            "Hawking radiation"
+        ],
+        "correct_answer": "Quantum tunneling"
+    },
+    {
+        "question": "What is the time complexity of the best known algorithm for integer factorization?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(2^(log n)^(1/3))",
+            "O(n^(1/4))"
+        ],
+        "correct_answer": "O(2^(log n)^(1/3))"
+    },
+    {
+        "question": "What is the name of the problem of determining whether a given propositional formula is satisfiable?",
+        "options": [
+            "P vs NP problem",
+            "Halting problem",
+            "Boolean satisfiability problem (SAT)",
+            "Travelling salesman problem"
+        ],
+        "correct_answer": "Boolean satisfiability problem (SAT)"
+    },
+    {
+        "question": "What is the value of the Riemann zeta function at -1?",
+        "options": [
+            "-1/12",
+            "0",
+            "1",
+            "Undefined"
+        ],
+        "correct_answer": "-1/12"
+    },
+    {
+        "question": "What is the time complexity of the Floyd-Warshall algorithm for finding all shortest paths in a weighted graph?",
+        "options": [
+            "O(V^2)",
+            "O(V^3)",
+            "O(VE)",
+            "O(V log E)"
+        ],
+        "correct_answer": "O(V^3)"
+    },
+    {
+        "question": "In quantum mechanics, what is the energy of the nth state of a particle in an infinite square well of width L?",
+        "options": [
+            "(n^2 h^2)/(8mL^2)",
+            "(n h^2)/(8mL^2)",
+            "(n^2 h^2)/(2mL^2)",
+            "(n h^2)/(2mL^2)"
+        ],
+        "correct_answer": "(n^2 h^2)/(8mL^2)"
+    },
+    {
+        "question": "What is the half-life of a first-order reaction if the rate constant is 0.0231 min^-1?",
+        "options": [
+            "20 min",
+            "30 min",
+            "40 min",
+            "50 min"
+        ],
+        "correct_answer": "30 min"
+    },
+    {
+        "question": "In biology, what is the name of the process by which RNA is synthesized from DNA?",
+        "options": [
+            "Translation",
+            "Replication",
+            "Transcription",
+            "Transduction"
+        ],
+        "correct_answer": "Transcription"
+    },
+    {
+        "question": "What is the expected number of comparisons in quicksort for an array of n elements?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)",
+            "O(log n)"
+        ],
+        "correct_answer": "O(n log n)"
+    },
+    {
+        "question": "A projectile is launched at an angle of 45° with an initial velocity of 100 m/s. What is its maximum height?",
+        "options": [
+            "255.1 m",
+            "510.2 m",
+            "127.6 m",
+            "1020.4 m"
+        ],
+        "correct_answer": "255.1 m"
+    },
+    {
+        "question": "What is the equilibrium constant for a reaction if ΔG° = -5.7 kJ/mol at 25°C?",
+        "options": [
+            "0.099",
+            "10.1",
+            "2.3",
+            "0.43"
+        ],
+        "correct_answer": "10.1"
+    },
+    {
+        "question": "In the central dogma of molecular biology, what process converts the sequence of a messenger RNA (mRNA) into a sequence of amino acids?",
+        "options": [
+            "Transcription",
+            "Translation",
+            "Replication",
+            "Splicing"
+        ],
+        "correct_answer": "Translation"
+    },
+    {
+        "question": "What is the time complexity of the best known algorithm for the graph isomorphism problem?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(2^(√(n log n)))",
+            "O(n!)"
+        ],
+        "correct_answer": "O(2^(√(n log n)))"
+    },
+    {
+        "question": "A mass of 2 kg is attached to a spring with spring constant k = 200 N/m. What is the period of oscillation?",
+        "options": [
+            "0.44 s",
+            "0.63 s",
+            "0.22 s",
+            "0.88 s"
+        ],
+        "correct_answer": "0.63 s"
+    },
+    {
+        "question": "What is the pH of a buffer solution made by mixing 0.1 M acetic acid (Ka = 1.8 × 10^-5) with 0.1 M sodium acetate in equal volumes?",
+        "options": [
+            "4.74",
+            "5.24",
+            "4.24",
+            "5.74"
+        ],
+        "correct_answer": "4.74"
+    },
+    {
+        "question": "What is the name of the process by which some organisms can convert light energy into chemical energy?",
+        "options": [
+            "Respiration",
+            "Fermentation",
+            "Photosynthesis",
+            "Chemosynthesis"
+        ],
+        "correct_answer": "Photosynthesis"
+    },
+    {
+        "question": "What is the space complexity of the best known algorithm for the 3-SAT problem?",
+        "options": [
+            "O(n)",
+            "O(2^n)",
+            "O(1.5^n)",
+            "O(n^2)"
+        ],
+        "correct_answer": "O(1.5^n)"
+    },
+    {
+        "question": "A car accelerates uniformly from rest to a speed of 30 m/s in 6 seconds. What distance does it cover?",
+        "options": [
+            "45 m",
+            "90 m",
+            "180 m",
+            "360 m"
+        ],
+        "correct_answer": "90 m"
+    },
+    {
+        "question": "What is the standard enthalpy of formation of CO2(g) if the standard enthalpies of combustion of C(s) and CO(g) are -393.5 kJ/mol and -283.0 kJ/mol respectively?",
+        "options": [
+            "-110.5 kJ/mol",
+            "-393.5 kJ/mol",
+            "-676.5 kJ/mol",
+            "-283.0 kJ/mol"
+        ],
+        "correct_answer": "-393.5 kJ/mol"
+    },
+    {
+        "question": "What is the name of the process by which DNA replicates its information before cell division?",
+        "options": [
+            "Mitosis",
+            "Meiosis",
+            "Binary fission",
+            "DNA replication"
+        ],
+        "correct_answer": "DNA replication"
+    },
+    {
+        "question": "What is the time complexity of the best known algorithm for integer factorization?",
+        "options": [
+            "O(n)",
+            "O(n log n)",
+            "O(2^(log n)^(1/3))",
+            "O(n^(1/4))"
+        ],
+        "correct_answer": "O(2^(log n)^(1/3))"
+    },
+    {
+        "question": "A 5 kg object is moving in a circular path of radius 2 m at a constant speed of 10 m/s. What is the centripetal force acting on it?",
+        "options": [
+            "100 N",
+            "250 N",
+            "500 N",
+            "1000 N"
+        ],
+        "correct_answer": "250 N"
+    },
+    {
+        "question": "What is the half-life of a radioactive isotope if 75% of a sample decays in 32 days?",
+        "options": [
+            "8 days",
+            "16 days",
+            "24 days",
+            "48 days"
+        ],
+        "correct_answer": "16 days"
+    },
+    {
+        "question": "What is the name of the process by which mature mRNA is created from the initial transcript in eukaryotes?",
+        "options": [
+            "Translation",
+            "Transcription",
+            "RNA splicing",
+            "RNA editing"
+        ],
+        "correct_answer": "RNA splicing"
+    },
+    {
+        "question": "What is the time complexity of the best known algorithm for the traveling salesman problem?",
+        "options": [
+            "O(n!)",
+            "O(2^n)",
+            "O(n^2 2^n)",
+            "O(n log n)"
+        ],
+        "correct_answer": "O(n^2 2^n)"
+    },
+    {
+        "question": "A projectile is fired with an initial velocity of 50 m/s at an angle of 30° above the horizontal. What is its range?",
+        "options": [
+            "110.4 m",
+            "220.8 m",
+            "441.6 m",
+            "883.2 m"
+        ],
+        "correct_answer": "220.8 m"
+    },
+    {
+        "question": "What is the pH of a 0.1 M solution of a weak acid with Ka = 1.8 × 10^-5?",
+        "options": [
+            "1.87",
+            "2.87",
+            "3.87",
+            "4.87"
+        ],
+        "correct_answer": "2.87"
+    },
+    {
+        "question": "What is the name of the process by which cells engulf large particles or other cells?",
+        "options": [
+            "Exocytosis",
+            "Endocytosis",
+            "Phagocytosis",
+            "Pinocytosis"
+        ],
+        "correct_answer": "Phagocytosis"
+    },
+    {
+        "question": "Which of these is not a primary color in the RGB color model?",
+        "options": [
+            "Red",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "correct_answer": "Yellow"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Go",
+            "Gd",
+            "Au",
+            "Ag"
+        ],
+        "correct_answer": "Au"
+    },
+    {
+        "question": "Which of these is not a state of matter?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Energy"
+        ],
+        "correct_answer": "Energy"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Brain",
+            "Liver",
+            "Skin",
+            "Heart"
+        ],
+        "correct_answer": "Skin"
+    },
+    {
+        "question": "Which of these is not a type of rock?",
+        "options": [
+            "Igneous",
+            "Sedimentary",
+            "Metamorphic",
+            "Volcanic"
+        ],
+        "correct_answer": "Volcanic"
+    },
+    {
+        "question": "What is the closest star to Earth?",
+        "options": [
+            "Proxima Centauri",
+            "Alpha Centauri",
+            "Sirius",
+            "The Sun"
+        ],
+        "correct_answer": "The Sun"
+    },
+    {
+        "question": "Which of these is not a type of electromagnetic radiation?",
+        "options": [
+            "X-rays",
+            "Gamma rays",
+            "Ultraviolet",
+            "Sound waves"
+        ],
+        "correct_answer": "Sound waves"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "question": "Which of these is not a type of cloud?",
+        "options": [
+            "Cumulus",
+            "Stratus",
+            "Nimbus",
+            "Nebula"
+        ],
+        "correct_answer": "Nebula"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": [
+            "299,792 km/s",
+            "300,000 km/s",
+            "3,000,000 km/s",
+            "30,000,000 km/s"
+        ],
+        "correct_answer": "299,792 km/s"
+    },
+    {
+        "question": "Which of these is not a type of simple machine?",
+        "options": [
+            "Lever",
+            "Pulley",
+            "Wheel and axle",
+            "Transistor"
+        ],
+        "correct_answer": "Transistor"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Iron",
+            "Diamond",
+            "Titanium"
+        ],
+        "correct_answer": "Diamond"
+    },
+    {
+        "question": "Which of these is not a type of blood cell?",
+        "options": [
+            "Red blood cells",
+            "White blood cells",
+            "Platelets",
+            "Stem cells"
+        ],
+        "correct_answer": "Stem cells"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "Which of these is not a type of computer memory?",
+        "options": [
+            "RAM",
+            "ROM",
+            "Cache",
+            "ALU"
+        ],
+        "correct_answer": "ALU"
+    },
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Processor Unit",
+            "Central Program Unit"
+        ],
+        "correct_answer": "Central Processing Unit"
+    },
+    {
+        "question": "Which of these is not a programming paradigm?",
+        "options": [
+            "Object-Oriented",
+            "Functional",
+            "Procedural",
+            "Alphabetical"
+        ],
+        "correct_answer": "Alphabetical"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "High Tech Modern Language",
+            "Hyper Transfer Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "correct_answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which of these is not a type of network topology?",
+        "options": [
+            "Bus",
+            "Star",
+            "Ring",
+            "Pyramid"
+        ],
+        "correct_answer": "Pyramid"
+    },
+    {
+        "question": "What is the smallest unit of digital information?",
+        "options": [
+            "Bit",
+            "Byte",
+            "Kilobyte",
+            "Megabyte"
+        ],
+        "correct_answer": "Bit"
+    },
+    {
+        "question": "Which of these is not an operating system?",
+        "options": [
+            "Windows",
+            "macOS",
+            "Linux",
+            "Oracle"
+        ],
+        "correct_answer": "Oracle"
+    },
+    {
+        "question": "What does URL stand for?",
+        "options": [
+            "Uniform Resource Locator",
+            "Universal Reference Link",
+            "Unified Resource Locator",
+            "Universal Resource Link"
+        ],
+        "correct_answer": "Uniform Resource Locator"
+    },
+    {
+        "question": "Which of these is not a type of computer virus?",
+        "options": [
+            "Trojan Horse",
+            "Worm",
+            "Spyware",
+            "Firewall"
+        ],
+        "correct_answer": "Firewall"
+    },
+    {
+        "question": "What is the name of the first electronic general-purpose computer?",
+        "options": [
+            "UNIVAC",
+            "ENIAC",
+            "EDVAC",
+            "ABC"
+        ],
+        "correct_answer": "ENIAC"
+    },
+    {
+        "question": "Which of these is not a type of database?",
+        "options": [
+            "Relational",
+            "Object-oriented",
+            "NoSQL",
+            "Binary"
+        ],
+        "correct_answer": "Binary"
+    },
+    {
+        "question": "What does GUI stand for?",
+        "options": [
+            "Graphical User Interface",
+            "General User Interaction",
+            "Guided User Input",
+            "Generated User Interface"
+        ],
+        "correct_answer": "Graphical User Interface"
+    },
+    {
+        "question": "Which of these is not a type of software license?",
+        "options": [
+            "Open source",
+            "Proprietary",
+            "Freeware",
+            "Hardware"
+        ],
+        "correct_answer": "Hardware"
+    },
+    {
+        "question": "What is the purpose of an IP address?",
+        "options": [
+            "To identify a device on a network",
+            "To encrypt data",
+            "To compress files",
+            "To block viruses"
+        ],
+        "correct_answer": "To identify a device on a network"
+    },
+    {
+        "question": "Which of these is not a type of computer port?",
+        "options": [
+            "USB",
+            "HDMI",
+            "Ethernet",
+            "WiFi"
+        ],
+        "correct_answer": "WiFi"
+    },
+    {
+        "question": "What does VPN stand for?",
+        "options": [
+            "Virtual Private Network",
+            "Very Personal Network",
+            "Visual Processing Node",
+            "Verified Public Network"
+        ],
+        "correct_answer": "Virtual Private Network"
+    },
+    {
+        "question": "Which of these is not a type of computer storage?",
+        "options": [
+            "Hard Disk Drive",
+            "Solid State Drive",
+            "Optical Disc",
+            "Random Access Memory"
+        ],
+        "correct_answer": "Random Access Memory"
+    },
+    {
+        "question": "What is the purpose of a firewall in computer networks?",
+        "options": [
+            "To prevent unauthorized access",
+            "To increase internet speed",
+            "To store data",
+            "To cool down the computer"
+        ],
+        "correct_answer": "To prevent unauthorized access"
+    },
+    {
+        "question": "Which of these is not a type of computer graphics?",
+        "options": [
+            "Raster",
+            "Vector",
+            "3D",
+            "Audio"
+        ],
+        "correct_answer": "Audio"
+    },
+    {
+        "question": "What does API stand for in programming?",
+        "options": [
+            "Application Programming Interface",
+            "Advanced Program Integration",
+            "Automated Process Interaction",
+            "Application Process Interface"
+        ],
+        "correct_answer": "Application Programming Interface"
+    },
+    {
+        "question": "Which of these is not a type of computer input device?",
+        "options": [
+            "Keyboard",
+            "Mouse",
+            "Microphone",
+            "Printer"
+        ],
+        "correct_answer": "Printer"
+    },
+    {
+        "question": "What is the purpose of an algorithm in computer science?",
+        "options": [
+            "To solve problems",
+            "To store data",
+            "To connect to the internet",
+            "To display graphics"
+        ],
+        "correct_answer": "To solve problems"
+    },
+    {
+        "question": "Which of these is not a type of computer network?",
+        "options": [
+            "LAN",
+            "WAN",
+            "MAN",
+            "SAN"
+        ],
+        "correct_answer": "SAN"
+    },
+    {
+        "question": "What does SQL stand for?",
+        "options": [
+            "Structured Query Language",
+            "Simple Question Language",
+            "System Quality Language",
+            "Structured Question Logic"
+        ],
+        "correct_answer": "Structured Query Language"
+    },
+    {
+        "question": "Which of these is not a type of programming language?",
+        "options": [
+            "Compiled",
+            "Interpreted",
+            "Markup",
+            "Encrypted"
+        ],
+        "correct_answer": "Encrypted"
+    },
+    {
+        "question": "What is the purpose of a compiler in programming?",
+        "options": [
+            "To translate source code to machine code",
+            "To run programs",
+            "To design user interfaces",
+            "To connect to databases"
+        ],
+        "correct_answer": "To translate source code to machine code"
+    },
+    {
+        "question": "Which of these is not a type of computer security threat?",
+        "options": [
+            "Malware",
+            "Phishing",
+            "Denial of Service",
+            "Overclocking"
+        ],
+        "correct_answer": "Overclocking"
+    },
+    {
+        "question": "What does IoT stand for in technology?",
+        "options": [
+            "Internet of Things",
+            "Input/Output Technology",
+            "Integrated Online Tools",
+            "Internal Operating Technique"
+        ],
+        "correct_answer": "Internet of Things"
+    },
+    {
+        "question": "Which of these is not a type of artificial intelligence?",
+        "options": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Data Encryption"
+        ],
+        "correct_answer": "Data Encryption"
+    },
+    {
+        "question": "What is the purpose of version control in software development?",
+        "options": [
+            "To track changes in code",
+            "To increase processing speed",
+            "To design user interfaces",
+            "To compress files"
+        ],
+        "correct_answer": "To track changes in code"
+    },
+    {
+        "question": "Which of these is not a type of cloud computing service?",
+        "options": [
+            "Infrastructure as a Service",
+            "Platform as a Service",
+            "Software as a Service",
+            "Hardware as a Service"
+        ],
+        "correct_answer": "Hardware as a Service"
+    },
+    {
+        "question": "What is the purpose of a cache in computing?",
+        "options": [
+            "To store frequently used data",
+            "To protect against viruses",
+            "To connect to the internet",
+            "To display graphics"
+        ],
+        "correct_answer": "To store frequently used data"
+    }
+]
